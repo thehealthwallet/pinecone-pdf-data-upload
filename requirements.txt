@@ -1,0 +1,8 @@
+PyPDF2
+io 
+streamlit 
+pandas 
+torch 
+sentence_transformers 
+pinecone
+transformer
