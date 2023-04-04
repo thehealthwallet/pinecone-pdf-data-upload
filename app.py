@@ -33,7 +33,7 @@ uploaded_files = st.file_uploader("Upload PDF files", accept_multiple_files=True
 
 pdf_name = []
 for f in uploaded_files:
-    #st.write(f.name)
+    st.write(f.name)
     pdf_name.append(f.name)
     
 
