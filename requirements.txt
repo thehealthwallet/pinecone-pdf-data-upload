@@ -1,8 +1,5 @@
 pypdf
-io 
-streamlit 
 pandas 
-torch 
 sentence_transformers 
-pinecone
-transformer
+pinecone-client
+
